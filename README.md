@@ -1,4 +1,5 @@
 <!-- @format -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9b2131a-224b-453e-9339-13f4432488f5/deploy-status)](https://app.netlify.com/sites/reduxstorepro/deploys)
 
 # Getting Started with Create React App
 
@@ -76,3 +77,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
